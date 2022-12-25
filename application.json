@@ -1,24 +1,8 @@
 {
   "pages": [
     {
-      "id": "Feedback Form",
-      "isDefault": false
-    },
-    {
-      "id": "Form Maker",
-      "isDefault": false
-    },
-    {
-      "id": "Responses",
-      "isDefault": false
-    },
-    {
       "id": "home",
       "isDefault": true
-    },
-    {
-      "id": "Page2",
-      "isDefault": false
     }
   ],
   "viewMode": false,
